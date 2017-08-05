@@ -1,0 +1,21 @@
+{
+    "name": "program2vb/jdf",
+    "description": "Solar(Jalali) Date and Time Functions",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Reza Gholampanahi",
+            "email": "info@scr.ir"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "program2vb\\jdf": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
